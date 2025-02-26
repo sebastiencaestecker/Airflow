@@ -25,7 +25,6 @@ Construire un pipeline simple mais efficace avec Apache Airflow pour :
 - **Apache Airflow** : Pour l'orchestration des workflows et l'automatisation des pipelines de données.
 - **Python** : Pour le développement des scripts de traitement des données.
 - **Pandas** : Pour la manipulation et l'analyse des données.
-- **SQL** : Pour l'interaction avec les bases de données.
 
 ---
 
